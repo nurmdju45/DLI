@@ -78,16 +78,18 @@ Feel free to submit pull requests for improvements, bug fixes, or new features!
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
 
-This markdown file includes:
+You are free to use, modify, and distribute the code, but you must give credit to the original author.
 
-  1. Project description
-  2. Explanation of the CSV files
-  3. Details of how the script works
-  4. Instructions for usage (clone repository, prepare CSV, and run the script)
-  5. Output CSV file format
-  6. Contribution and license information
+MIT License
 
-Let me know if you need further modifications!
+Copyright (c) [2024] [Nur Mohammad]
+
+
+The above copyright notice, this permission notice, and the following credit
+must be included in all copies or substantial portions of the script: "This
+project uses code originally created by [Nur Mohammad]."
+
+
 
