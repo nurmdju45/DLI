@@ -22,3 +22,6 @@ You can install the necessary libraries using `pip`:
 
 ```bash
 pip install selenium
+
+
+This separates the bash code block and adds your new headers for "Note" and "Files" accordingly.
