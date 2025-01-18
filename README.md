@@ -52,6 +52,12 @@ git clone https://github.com/yourusername/DLI.git
 ## Prepare the Input CSV File
 
 Prepare the input CSV file (bang_b.csv) with latitude and longitude values. The file should have the following format:
+```csv
+Latitude,Longitude
+23.8103,90.4125
+22.3636,91.1560
+```
+
 
 
 
