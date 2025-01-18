@@ -1,4 +1,4 @@
-# DLI Web Scraper
+# DLI Value Downloader
 
 This repository contains a Python script for scraping DLI (Daily Light Integral) data from the website [suntrackertech.com](https://dli.suntrackertech.com/), using Selenium WebDriver. The script retrieves data for multiple latitude-longitude coordinates and stores the results in a CSV file for further analysis.
 
@@ -58,6 +58,36 @@ Latitude,Longitude
 22.3636,91.1560
 ```
 
+##Run the Script
 
+Run the Python script:
+```bash
+python dli_downloder.py
+```
+##Output Format
 
+The results will be saved in the DLI_results.csv file. The file will have the following format:
+```csv
+LatLon,Jan,Feb,Mar,...,Dec
+23.8103,12.3,15.1,16.7,...,18.9
+22.3636,13.5,14.2,15.3,...,17.6
+```
+##Contribution
+
+Feel free to submit pull requests for improvements, bug fixes, or new features!
+
+##License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+This markdown file includes:
+
+- **1. Project description
+- **2. Explanation of the CSV files
+- **3. Details of how the script works
+- **4. Instructions for usage (clone repository, prepare CSV, and run the script)
+- **5. Output CSV file format
+- **6. Contribution and license information
+
+Let me know if you need further modifications!
 
