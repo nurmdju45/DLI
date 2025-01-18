@@ -58,13 +58,13 @@ Latitude,Longitude
 22.3636,91.1560
 ```
 
-##Run the Script
+## Run the Script
 
 Run the Python script:
 ```bash
 python dli_downloder.py
 ```
-##Output Format
+## Output Format
 
 The results will be saved in the DLI_results.csv file. The file will have the following format:
 ```csv
@@ -72,11 +72,11 @@ LatLon,Jan,Feb,Mar,...,Dec
 23.8103,12.3,15.1,16.7,...,18.9
 22.3636,13.5,14.2,15.3,...,17.6
 ```
-##Contribution
+## Contribution
 
 Feel free to submit pull requests for improvements, bug fixes, or new features!
 
-##License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
