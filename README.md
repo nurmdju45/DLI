@@ -84,7 +84,7 @@ You are free to use, modify, and distribute the code, but you must give credit t
 
 MIT License
 
-Copyright (c) [2024] [Nur Mohammad]
+Copyright © **2024 Nur Mohammad**
 
 
 The above copyright notice, this permission notice, and the following credit
