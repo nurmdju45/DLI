@@ -22,6 +22,9 @@ You can install the necessary libraries using `pip`:
 
 ```bash
 pip install selenium
+```
+Note: Ensure the Chrome WebDriver is installed and available in your system's PATH.
 
 
-This separates the bash code block and adds your new headers for "Note" and "Files" accordingly.
+
+
